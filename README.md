@@ -52,6 +52,7 @@ sudo ./build.sh
 ```
 
 ## Credits
+- [Me](https://github.com/TheBeeBoi)
 - Asineth for [checkn1x](https://github.com/asineth0/checkn1x)
 - raspberryenvoie for [odysseyn1x](https://github.com/raspberryenvoie/odysseyn1x)
 - [Everyone else who contributed to palen1x](https://github.com/palera1n/palen1x/graphs/contributors)
