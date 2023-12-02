@@ -4,15 +4,15 @@
 
 <br>
 <p align="center">
-<strong>Linux distro that lets you install <a href="https://github.com/palera1n/palera1n">palera1n</a>.</strong><br>
-    It aims to be easy to use, have a nice interface and support 32 and 64 bit CPUs.
+<strong>Linux distro that lets you hat lets you run [pi-hole](https://pi-hole.net/) from a USB stick. Whereever you want. 
+    It aims to be easy to use, have a nice interface and support most architectures.
 </p>
 <p align="center">
     <a href="#Information">Information</a> •
     <a href="#contributing">Contributing</a> •
     <a href="#credits">Credits</a> •
     <a href="https://github.com/palera1n/palen1x/blob/main/CHANGELOG.md">Changelog</a> • 
-    <a href="https://dsc.gg/palera1n">Support Discord</a> 
+    <a href="https://github.com/TheBeeBoi/portablackhole/issues">Support</a> 
 </p>
 
 <p align="center">
