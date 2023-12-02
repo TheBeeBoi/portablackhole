@@ -1,6 +1,7 @@
 <p align="center">
-    <img src="https://github.com/TheBeeBoi/portablackhole/assets/97726243/793fe813-a86b-49fa-8b6c-303dea636d1c" alt="logo" width="250">
+    <img src="https://github.com/TheBeeBoi/portablackhole/assets/97726243/087bb9de-b924-42ed-bfe4-2567149bba92" alt="logo" width="384">
 </p>
+
 <br>
 <p align="center">
 <strong>Linux distro that lets you install <a href="https://github.com/palera1n/palera1n">palera1n</a>.</strong><br>
