@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/TheBeeBoi/portablackhole/assets/97726243/087bb9de-b924-42ed-bfe4-2567149bba92" alt="logo" width="384">
+    <img src="https://github.com/TheBeeBoi/portablackhole/assets/97726243/2379a0c0-1a0e-49ad-a43b-777e3c450a92" alt="logo" width="384">
 </p>
 
 <br>
