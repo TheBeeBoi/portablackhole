@@ -1,11 +1,12 @@
 <p align="center">
-    <img src="https://github.com/TheBeeBoi/portablackhole/assets/97726243/2379a0c0-1a0e-49ad-a43b-777e3c450a92" alt="logo" width="384">
+    <img src="https://github.com/TheBeeBoi/portablackhole/assets/97726243/e1e4590f-9ff9-465d-beff-8d3a1f602196" alt="logo" width="384">
 </p>
 
 <br>
 <p align="center">
 <strong>Linux distro that lets you hat lets you run <a href="https://pi-hole.net">pi-hole</a> from a USB stick. Whereever you want. 
     It aims to be easy to use, have a nice interface and support most architectures.
+</strong>
 </p>
 <p align="center">
     <a href="#Information">Information</a> •
