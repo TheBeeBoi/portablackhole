@@ -4,7 +4,7 @@
 
 <br>
 <p align="center">
-<strong>Linux distro that lets you hat lets you run [pi-hole](https://pi-hole.net/) from a USB stick. Whereever you want. 
+<strong>Linux distro that lets you hat lets you run <a href="https://pi-hole.net">pi-hole</a> from a USB stick. Whereever you want. 
     It aims to be easy to use, have a nice interface and support most architectures.
 </p>
 <p align="center">
