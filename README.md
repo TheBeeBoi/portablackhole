@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://cdn.discordapp.com/attachments/1017854329887129611/1068174531048513596/Palen1x.png" alt="logo" width="250">
+    <img src="https://github.com/TheBeeBoi/portablackhole/assets/97726243/793fe813-a86b-49fa-8b6c-303dea636d1c" alt="logo" width="250">
 </p>
 <br>
 <p align="center">
